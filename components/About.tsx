@@ -1,14 +1,8 @@
 "use client"
-import pp from "../public/memoji.png";
 import { motion } from 'framer-motion';
-import { Button } from "./ui/button";
 import ConnectButton from "./ui/ConnectButton";
 import Link from "next/link";
 import { FaGithub, FaLinkedin } from "react-icons/fa6";
-import { TextGenerateEffect } from "./ui/TextEffect";
-import { TextGenerateEffect2 } from "./ui/TextEffectA";
-import { TextGenerateEffect3 } from "./ui/TextEffectB";
-import { Card, CardContent } from "./ui/card";
 
 const About = () => {
   return (
