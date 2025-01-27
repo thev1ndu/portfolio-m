@@ -1,9 +1,6 @@
 import { BackgroundBeams } from './ui/BackgroundBeams';
-import { BackgroundLines } from './ui/BackgroundLines';
 import ConnectButton from './ui/ConnectButton';
-import { Spotlight } from './ui/Spotlight';
 import { TextGenerateEffect } from './ui/TextEffect';
-import Image from 'next/image';
 import { WavyBackground } from './ui/WavyBackground';
 
 const Hero = () => {
