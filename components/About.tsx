@@ -1,5 +1,4 @@
 "use client"
-import Image from "next/image";
 import pp from "../public/memoji.png";
 import { motion } from 'framer-motion';
 import { Button } from "./ui/button";
